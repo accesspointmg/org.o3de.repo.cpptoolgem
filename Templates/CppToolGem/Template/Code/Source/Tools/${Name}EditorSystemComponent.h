@@ -10,7 +10,7 @@
 
 #pragma once
 
-#include <${Name}SystemComponent.h>
+#include <Clients/${Name}SystemComponent.h>
 
 #include <AzToolsFramework/Entity/EditorEntityContextBus.h>
 

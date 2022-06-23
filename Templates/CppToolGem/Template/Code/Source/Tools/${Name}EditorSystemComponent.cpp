@@ -12,8 +12,8 @@
 
 #include <AzToolsFramework/API/ViewPaneOptions.h>
 
-#include <${Name}Widget.h>
-#include <${Name}EditorSystemComponent.h>
+#include "${Name}Widget.h"
+#include "${Name}EditorSystemComponent.h"
 
 namespace ${SanitizedCppName}
 {

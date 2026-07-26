@@ -331,5 +331,16 @@
   ],
   "user_tags": [
     "org.o3de.template.cpptoolgem"
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-cpptoolgem.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }
